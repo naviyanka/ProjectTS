@@ -41,7 +41,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/naviyanka/naviyanka/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/naviyanka/ProjectTS/output/snake.svg" alt="Snake animation" />
 
 ###
 
